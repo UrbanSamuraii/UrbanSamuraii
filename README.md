@@ -5,6 +5,7 @@
 ## 42 Projects:
 
 [![ankhabar's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3027341)](https://github.com/JaeSeoKim/badge42)
+
 [![ankhabar's 42 minishell Score](https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2963948)](https://github.com/JaeSeoKim/badge42)
 [![ankhabar's 42 pipex Score](https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2935594)](https://github.com/JaeSeoKim/badge42)
 [![ankhabar's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2943624)](https://github.com/JaeSeoKim/badge42)
