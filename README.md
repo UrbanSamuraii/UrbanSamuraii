@@ -11,4 +11,4 @@
 
 <a href="https://github.com/TheCringekeeper/Minishell">minishell  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2963948"/></a>
 
-<a href="https://github.com/TheCringekeeper">push_swap  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2943624"/></a>
+<a href="https://github.com/TheCringekeeper/Push_swap">push_swap  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2943624"/></a>
