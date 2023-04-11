@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://profile.intra.42.fr/users/ankhabar"><img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/stats?cursusId=21&coalitionId=48"/></a></p>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheCringekeeper&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true&hide=issues,prs"/></p>
+<p align="center"><a href="https://github.com/TheCringekeeper"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheCringekeeper&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true&hide=issues,prs"/></p></a>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCringekeeper&theme=radical&include_all_commits=false&hide_border=true&count_private=false&layout=compact"/></p>
 <hr>
 <h1 align="center">42 Projects</h1>
