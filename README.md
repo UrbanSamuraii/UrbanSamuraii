@@ -32,9 +32,7 @@ src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3056851
   
 <a>libft  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2872829"/></a>
 
-<a>exam rank 02  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2948280"/></a>
-<a>exam rank 03  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3036982"/></a>
-<a>exam rank 04  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3050767"/></a>
+<a>exam rank 02/03/04  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2948280"/></a>
   
 <hr>
 
