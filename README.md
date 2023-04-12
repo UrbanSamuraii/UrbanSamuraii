@@ -9,7 +9,8 @@
 
 <details>
 <summary> 42 Projects </summary>
-  - ---
+
+- ---
 <a href="https://github.com/TheCringekeeper/cpp01">cpp01  <img
 src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3059738"/></a>
   
@@ -21,6 +22,6 @@ src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3056851
 <a href="https://github.com/TheCringekeeper/Minishell">minishell  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2963948"/></a>
 
 <a href="https://github.com/TheCringekeeper/Push_swap">push_swap  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2943624"/></a>
-  - ---
+- ---
 
 </details>
