@@ -20,10 +20,22 @@ src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3056851
   
 <a href="https://github.com/TheCringekeeper/Philosophers">philosophers  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3027341"/></a>
 
-<a href="https://github.com/TheCringekeeper/Minishell">minishell  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2963948"/></a>
-
 <a href="https://github.com/TheCringekeeper/Push_swap">push_swap  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2943624"/></a>
 
+<a href="https://github.com/TheCringekeeper/Minishell">minishell  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2963948"/></a>
+  
+<a>pipex  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2935594"/></a>
+
+<a>so_long  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2912395"/></a>
+
+<a>get_next_line  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2893194"/></a>
+  
+<a>libft  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2872829"/></a>
+
+<a>exam rank 02  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2948280"/></a>
+<a>exam rank 03  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3036982"/></a>
+<a>exam rank 04  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3050767"/></a>
+  
 <hr>
 
 </details>
