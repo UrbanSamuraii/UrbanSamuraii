@@ -12,6 +12,9 @@
 
 <hr>
 
+<a href="https://github.com/TheCringekeeper/cpp02">cpp02  <img
+src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3064002"/></a>
+  
 <a href="https://github.com/TheCringekeeper/cpp01">cpp01  <img
 src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3059738"/></a>
   
