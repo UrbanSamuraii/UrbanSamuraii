@@ -9,7 +9,6 @@
 
 <details>
 <summary> 42 Projects </summary>
-
 <hr>
 
 <a href="https://github.com/TheCringekeeper/cpp02">cpp02  <img
@@ -38,5 +37,4 @@ src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3056851
 <a>exam rank 02/03/04  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2948280"/></a>
   
 <hr>
-
 </details>
