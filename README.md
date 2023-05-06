@@ -11,21 +11,23 @@
 <summary> 42 Projects </summary>
 <hr>
 
-<a href="https://github.com/TheCringekeeper/cpp03">cpp03  <img
-src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3072238"/></a>
+<a href="https://github.com/TheCringekeeper/cpp03">cpp03  
+<img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3072238"/></a>
   
-<a href="https://github.com/TheCringekeeper/cpp02">cpp02  <img
-src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3064002"/></a>
+<a href="https://github.com/TheCringekeeper/cpp02">cpp02  
+<img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3064002"/></a>
   
-<a href="https://github.com/TheCringekeeper/cpp01">cpp01  <img
-src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3059738"/></a>
+<a href="https://github.com/TheCringekeeper/cpp01">cpp01  
+<img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3059738"/></a>
   
-<a href="https://github.com/TheCringekeeper/cpp00">cpp00  <img
-src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3056851"/></a>
+<a href="https://github.com/TheCringekeeper/cpp00">cpp00  
+<img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3056851"/></a>
   
-<a href="https://github.com/TheCringekeeper/Philosophers">philosophers  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3027341"/></a>
+<a href="https://github.com/TheCringekeeper/Philosophers">philosophers  
+<img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3027341"/></a>
 
-<a href="https://github.com/TheCringekeeper/Push_swap">push_swap  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2943624"/></a>
+<a href="https://github.com/TheCringekeeper/Push_swap">push_swap  
+<img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2943624"/></a>
 
 <a>minishell  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2963948"/></a>
   
