@@ -2,7 +2,6 @@
 
 <p align="center"> <a href="https://profile.intra.42.fr/users/ankhabar"><img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/stats?cursusId=21&coalitionId=48"/></a></p>
 <hr>
-<p align="center"><a href="https://github.com/TheCringekeeper"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheCringekeeper&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true&hide=issues,prs"/></p></a>
 
 <h1 align="center">
 <details>
