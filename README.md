@@ -10,9 +10,11 @@
 
 <a>cpp 00..06 <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3072238"/></a>
  
-<a href="https://github.com/TheCringekeeper/Philosophers">philosophers  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3027341"/></a>
+<a>miniRT <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3078457"/></a>
+ 
+<a>philosophers  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3027341"/></a>
 
-<a href="https://github.com/TheCringekeeper/Push_swap">push_swap  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2943624"/></a>
+<a>push_swap  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2943624"/></a>
 
 <a>minishell  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2963948"/></a>
   
