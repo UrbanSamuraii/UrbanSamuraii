@@ -24,7 +24,7 @@
 
 <a>so_long  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2912395"/></a>
 
-<a>exam rank 02/03/04  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2948280"/></a>
+<a>exam rank 02/03/04/05  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2948280"/></a>
   
 <hr>
 </details>
