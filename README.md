@@ -10,7 +10,7 @@
 
 <a>ft_irc  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2912395"/></a>
 
-<a>cpp 04/09  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3072238"/></a>
+<a>cpp 00 - 09  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3072238"/></a>
 
 <a>inception  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/3027341"/></a>
  
@@ -22,8 +22,6 @@
 
 <a>minishell  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2963948"/></a>
   
-<a>pipex  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2935594"/></a>
-
 <a>so_long  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2912395"/></a>
 
 <a>exam rank 02/03/04/05  <img src="https://badge42.vercel.app/api/v2/clfuo3if4001108l4hyh8vu4g/project/2948280"/></a>
